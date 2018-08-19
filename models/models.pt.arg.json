@@ -1,0 +1,38 @@
+{
+    "args": [
+        100,
+        32290,
+        100,
+        3444,
+        50,
+        52,
+        128,
+        3,
+        300,
+        3,
+        "FastLSTM",
+        256,
+        512,
+        2,
+        2,
+        27,
+        512,
+        128
+    ],
+    "kwargs": {
+        "p_in": 0.33,
+        "p_out": 0.33,
+        "p_rnn": [
+            0.33,
+            0.33
+        ],
+        "biaffine": true,
+        "pos": true,
+        "char": true,
+        "eojul": true,
+        "prior_order": "inside_out",
+        "skipConnect": true,
+        "grandPar": true,
+        "sibling": true
+    }
+}

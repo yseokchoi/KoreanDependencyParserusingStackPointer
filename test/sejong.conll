@@ -1,0 +1,234 @@
+#SENTID:1
+#FILE:practice.txt
+#ORGSENT:우선 자신의 가치관을 정돈하고 다른 친구가 문제를 해결할 수 있도록 돕는다는 것이다.
+1	우선	우선	ADV	MAG	_	4	advmod	_	_
+2	자신의	자신 의	NOUN	NNG+JKG	_	3	nmod	_	_
+3	가치관을	가치관 을	NOUN	NNG+JKO	_	4	obj	_	_
+4	정돈하고	정돈 하 고	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	다른	다른	ADJ	MM	_	6	amod	_	_
+6	친구가	친구 가	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	문제를	문제 를	NOUN	NNG+JKO	_	8	obj	_	_
+8	해결할	해결 하 ㄹ	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+9	수	수	NOUN	NNB	_	8	aux	_	_
+10	있도록	있 도록	VERB	VV+EC	_	9	aux	_	_
+11	돕는다는	돕 는다는	VERB	VV+ETM	_	0	root	_	_
+12	것이다.	것 이 다 .	ADJ	NNB+VCP+EF+SF	_	11	aux	_	_
+
+
+#SENTID:2
+#FILE:practice.txt
+#ORGSENT:매일 욕실에서 1시간 반 이상을 보낸다는 그는 체조와 텔레비전 시청, 식사까지 할 수 있는 욕실이 나와야 한다고 주장할 정도다.
+1	매일	매일	NOUN	NNG	_	6	obl	_	_
+2	욕실에서	욕실 에서	NOUN	NNG+JKB	_	6	obl	_	_
+3	1시간	1 시간	NOUN	SN+NNG	_	4	nmod	_	_
+4	반	반	NOUN	NNG	_	5	nmod	_	_
+5	이상을	이상 을	NOUN	NNG+JKO	_	6	obj	_	_
+6	보낸다는	보내 ㄴ다는	VERB	VV+ETM	_	7	acl	_	_
+7	그는	그 는	PRON	NP+JX	_	18	nsubj	_	_
+8	체조와	체조 와	CCONJ	NNG+JC	_	11	conj	_	_
+9	텔레비전	텔레비전	NOUN	NNG	_	10	nmod	_	_
+10	시청,	시청 ,	NOUN	NNG+SP	_	11	conj	_	_
+11	식사까지	식사 까지	NOUN	NNG+JX	_	12	obj	_	_
+12	할	하 ㄹ	VERB	VV+ETM	_	15	acl	_	_
+13	수	수	NOUN	NNB	_	12	aux	_	_
+14	있는	있 는	VERB	VV+ETM	_	13	aux	_	_
+15	욕실이	욕실 이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	나와야	나오 아야	VERB	VV+EC	_	18	ccomp	_	_
+17	한다고	하 ㄴ다고	AUX	VX+EC	_	16	aux	_	_
+18	주장할	주장 하 ㄹ	VERB	NNG+XSV+ETM	_	0	root	_	_
+19	정도다.	정도 이 다 .	ADJ	NNG+VCP+EF+SF	_	18	aux	_	_
+
+
+#SENTID:3
+#FILE:practice.txt
+#ORGSENT:앙드레김 씨는 "중국 유적지 곳곳을 돌아 보고 느낀 고대 문명의 기품 있고 웅장한 모습과 21세기를 향한 세계인의 화합을 작품으로 형상화하려고 했다"고 말한다.
+1	앙드레김	앙드레김	PROPN	NNP	_	2	nmod	_	_
+2	씨는	씨 는	NOUN	NNB+JX	_	25	nsubj	_	_
+3	"	"	PUNCT	SS	_	21	punct	_	SpaceAfter=No
+4	중국	중국	PROPN	NNP	_	5	nmod	_	_
+5	유적지	유적지	NOUN	NNG	_	6	nmod	_	_
+6	곳곳을	곳곳 을	NOUN	NNG+JKO	_	7	obj	_	_
+7	돌아	돌 아	VERB	VV+EC	_	9	advcl	_	_
+8	보고	보 고	AUX	VX+EC	_	7	aux	_	_
+9	느낀	느끼 ㄴ	VERB	VV+ETM	_	15	acl	_	_
+10	고대	고대	NOUN	NNG	_	11	nmod	_	_
+11	문명의	문명 의	NOUN	NNG+JKG	_	15	nmod	_	_
+12	기품	기품	NOUN	NNG	_	13	nsubj	_	_
+13	있고	있 고	VERB	VV+EC	_	14	advcl	_	_
+14	웅장한	웅장 하 ㄴ	ADJ	XR+XSA+ETM	_	15	acl	_	_
+15	모습과	모습 과	CCONJ	NNG+JC	_	19	conj	_	_
+16	21세기를	21 세기 를	NOUN	SN+NNG+JKO	_	17	obj	_	_
+17	향한	향하 ㄴ	VERB	VV+ETM	_	19	acl	_	_
+18	세계인의	세계인 의	NOUN	NNG+JKG	_	19	nmod	_	_
+19	화합을	화합 을	NOUN	NNG+JKO	_	21	obj	_	_
+20	작품으로	작품 으로	NOUN	NNG+JKB	_	21	obl	_	_
+21	형상화하려고	형상 화 하 려고	VERB	NNG+XSN+XSV+EC	_	25	ccomp	_	_
+22	했다	하 았 다	AUX	VX+EP+EC	_	21	aux	_	SpaceAfter=No
+23	"	"	PUNCT	SS	_	21	punct	_	SpaceAfter=No
+24	고	고	ADP	JKQ	_	21	case	_	_
+25	말한다.	말 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	_	0	root	_	_
+
+
+#SENTID:4
+#FILE:practice.txt
+#ORGSENT:엠마누엘 웅가로는 "실내 장식품을 디자인할 때 옷을 만들 때와는 다른 해방감을 느낀다"고 말한다.
+1	엠마누엘	엠마누엘	PROPN	NNP	_	2	nmod	_	_
+2	웅가로는	웅가로 는	PROPN	NNP+JX	_	16	nsubj	_	_
+3	"	"	PUNCT	SS	_	13	punct	_	SpaceAfter=No
+4	실내	실내	NOUN	NNG	_	5	nmod	_	_
+5	장식품을	장식품 을	NOUN	NNG+JKO	_	6	obj	_	_
+6	디자인할	디자인 하 ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	때	때	NOUN	NNG	_	13	obl	_	_
+8	옷을	옷 을	NOUN	NNG+JKO	_	9	obj	_	_
+9	만들	만들 ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	때와는	때 와 는	NOUN	NNG+JKB+JX	_	11	nsubj	_	_
+11	다른	다르 ㄴ	ADJ	VA+ETM	_	12	acl	_	_
+12	해방감을	해방감 을	NOUN	NNG+JKO	_	13	obj	_	_
+13	느낀다	느끼 ㄴ다	VERB	VV+EC	_	16	ccomp	_	SpaceAfter=No
+14	"	"	PUNCT	SS	_	13	punct	_	SpaceAfter=No
+15	고	고	ADP	JKQ	_	13	case	_	_
+16	말한다.	말 하 ㄴ다 .	VERB	NNG+XSV+EF+SF	_	0	root	_	_
+
+
+#SENTID:5
+#FILE:practice.txt
+#ORGSENT:축구공 모양의 전기자동차를 타고 스피드를 즐기는 [월드컵 2002]를 비롯, 회전판 위의 탑승의자에 앉아 굴곡운동을 하는 [록카페] 등이 첫선을 보인다.
+1	축구공	축구공	NOUN	NNG	_	2	nmod	_	_
+2	모양의	모양 의	NOUN	NNG+JKG	_	3	nmod	_	_
+3	전기자동차를	전기 자동차 를	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+4	타고	타 고	VERB	VV+EC	_	6	advcl	_	_
+5	스피드를	스피드 를	NOUN	NNG+JKO	_	6	obj	_	_
+6	즐기는	즐기 는	VERB	VV+ETM	_	9	acl	_	_
+7	[	[	PUNCT	SS	_	9	punct	_	SpaceAfter=No
+8	월드컵	월드컵	NOUN	NNG	_	9	nmod	_	_
+9	2002	2002	NUM	SN	_	12	obj	_	SpaceAfter=No
+10	]	]	PUNCT	SS	_	9	punct	_	SpaceAfter=No
+11	를	를	ADP	JKO	_	9	case	_	_
+12	비롯,	비롯 ,	NOUN	XR+SP	_	22	advcl	_	_
+13	회전판	회전판	NOUN	NNG	_	14	nmod	_	_
+14	위의	위 의	NOUN	NNG+JKG	_	15	nmod	_	_
+15	탑승의자에	탑승 의자 에	NOUN	NNG+NNG+JKB	_	16	obl	_	_
+16	앉아	앉 아	VERB	VV+EC	_	18	advcl	_	_
+17	굴곡운동을	굴곡 운동 을	NOUN	NNG+NNG+JKO	_	18	obj	_	_
+18	하는	하 는	VERB	VV+ETM	_	19	acl	_	_
+19	[록카페]	[ 록카페 ]	NOUN	SS+NNG+SS	_	20	nmod	_	_
+20	등이	등 이	NOUN	NNB+JKS	_	22	nsubj	_	_
+21	첫선을	첫선 을	NOUN	NNG+JKO	_	22	obj	_	_
+22	보인다.	보이 ㄴ다 .	VERB	VV+EF+SF	_	0	root	_	_
+
+
+#SENTID:6
+#FILE:practice.txt
+#ORGSENT:개최국 스페인에서는 금메달 하나에 8백만 페세타(약 6천 3백만 원)로 유럽 각국의 메달 상여금 가운데 최고다.
+1	개최국	개최국	NOUN	NNG	_	2	nmod	_	_
+2	스페인에서는	스페인 에서 는	PROPN	NNP+JKB+JX	_	19	obl	_	_
+3	금메달	금메달	NOUN	NNG	_	4	nmod	_	_
+4	하나에	하나 에	NUM	NR+JKB	_	6	obl	_	_
+5	8백만	8 백만	NUM	SN+NR	_	6	nummod	_	_
+6	페세타	페세타	NOUN	NNG	_	19	obl	_	SpaceAfter=No
+7	(	(	PUNCT	SS	_	11	punct	_	SpaceAfter=No
+8	약	약	ADJ	MM	_	11	amod	_	_
+9	6천	6 천	NUM	SN+NR	_	10	nummod	_	_
+10	3백만	3 백만	NUM	SN+NR	_	11	nummod	_	_
+11	원	원	NOUN	NNG	_	6	appos	_	SpaceAfter=No
+12	)	)	PUNCT	SS	_	11	punct	_	SpaceAfter=No
+13	로	로	ADP	JKB	_	6	case	_	_
+14	유럽	유럽	PROPN	NNP	_	15	nmod	_	_
+15	각국의	각 국 의	NOUN	MM+NNG+JKG	_	17	nmod	_	_
+16	메달	메달	NOUN	NNG	_	17	nmod	_	_
+17	상여금	상여금	NOUN	NNG	_	18	nmod	_	_
+18	가운데	가운데	NOUN	NNG	_	19	obl	_	_
+19	최고다.	최고 이 다 .	ADJ	NNG+VCP+EF+SF	_	0	root	_	_
+
+
+#SENTID:7
+#FILE:practice.txt
+#ORGSENT:노씨(외대 유고어과 3년)와 최씨(중대 토목과 3년)는 작년에 벌어진 모든 자동차경주대회에 함께 얼굴을 내밀었다.
+1	노씨	노 씨	NOUN	NNG+NNB	_	8	conj	_	SpaceAfter=No
+2	(	(	PUNCT	SS	_	5	punct	_	SpaceAfter=No
+3	외대	외대	PROPN	NNP	_	4	nmod	_	_
+4	유고어과	유고어 과	PROPN	NNP+NNG	_	5	nmod	_	_
+5	3년	3 년	NOUN	SN+NNB	_	1	appos	_	SpaceAfter=No
+6	)	)	PUNCT	SS	_	5	punct	_	SpaceAfter=No
+7	와	와	CCONJ	JC	_	1	cc	_	_
+8	최씨	최 씨	PROPN	NNP+NNB	_	21	nsubj	_	SpaceAfter=No
+9	(	(	PUNCT	SS	_	12	punct	_	SpaceAfter=No
+10	중대	중대	NOUN	NNG	_	11	nmod	_	_
+11	토목과	토목 과	NOUN	NNG+NNG	_	12	nmod	_	_
+12	3년	3 년	NOUN	SN+NNB	_	8	appos	_	SpaceAfter=No
+13	)	)	PUNCT	SS	_	12	punct	_	SpaceAfter=No
+14	는	는	ADP	JX	_	8	case	_	_
+15	작년에	작년 에	NOUN	NNG+JKB	_	16	obl	_	_
+16	벌어진	벌어지 ㄴ	VERB	VV+ETM	_	18	acl	_	_
+17	모든	모든	DET	MM	_	18	det	_	_
+18	자동차경주대회에	자동차 경주 대회 에	NOUN	NNG+NNG+NNG+JKB	_	21	obl	_	_
+19	함께	함께	ADV	MAG	_	21	advmod	_	_
+20	얼굴을	얼굴 을	NOUN	NNG+JKO	_	21	obj	_	_
+21	내밀었다.	내밀 었 다 .	VERB	VV+EP+EF+SF	_	0	root	_	_
+
+
+#SENTID:8
+#FILE:practice.txt
+#ORGSENT:그러니 땅만 팠다 하면 가스관 파손 사고가 나기 마련인 것이다.
+1	그러니	그러 니	VERB	VV+EC	_	8	advcl	_	_
+2	땅만	땅 만	NOUN	NNG+JX	_	3	obj	_	_
+3	팠다	파 았 다	VERB	VV+EP+EC	_	4	ccomp	_	_
+4	하면	하 면	VERB	VV+EC	_	8	advcl	_	_
+5	가스관	가스관	NOUN	NNG	_	6	nmod	_	_
+6	파손	파손	NOUN	NNG	_	7	nmod	_	_
+7	사고가	사고 가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	나기	나 기	VERB	VV+ETN	_	0	root	_	_
+9	마련인	마련 이 ㄴ	ADJ	NNB+VCP+ETM	_	8	aux	_	_
+10	것이다.	것 이 다 .	ADJ	NNB+VCP+EF+SF	_	9	aux	_	_
+
+
+#SENTID:9
+#FILE:practice.txt
+#ORGSENT:위에 언급한 탈식민 이론가들은 영문학과 또는 영문학과에 준하는 프로그램에서 교육받은 사람들이기 때문에 애초에 출발점은 문학 작품이었다고 할 수 있다.
+1	위에	위 에	NOUN	NNG+JKB	_	2	obl	_	_
+2	언급한	언급 하 ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+3	탈식민	탈 식민	NOUN	XPN+NNG	_	4	nmod	_	_
+4	이론가들은	이론가 들 은	NOUN	NNG+XSN+JX	_	11	nsubj	_	_
+5	영문학과	영문학 과	NOUN	NNG+NNG	_	9	conj	_	_
+6	또는	또는	CCONJ	MAJ	_	7	cc	_	_
+7	영문학과에	영문 학과 에	NOUN	NNG+NNG+JKB	_	8	obl	_	_
+8	준하는	준하 는	VERB	VV+ETM	_	9	acl	_	_
+9	프로그램에서	프로그램 에서	NOUN	NNG+JKB	_	10	obl	_	_
+10	교육받은	교육 받 은	VERB	NNG+VV+ETM	_	11	acl	_	_
+11	사람들이기	사람 들 이 기	ADJ	NNG+XSN+VCP+ETN	_	12	acl	_	_
+12	때문에	때문 에	NOUN	NNB+JKB	_	17	obl	_	_
+13	애초에	애초 에	NOUN	NNG+JKB	_	16	obl	_	_
+14	출발점은	출발점 은	NOUN	NNG+JX	_	16	nsubj	_	_
+15	문학	문학	NOUN	NNG	_	16	nmod	_	_
+16	작품이었다고	작품 이 었 다고	ADJ	NNG+VCP+EP+EC	_	17	ccomp	_	_
+17	할	하 ㄹ	VERB	VV+ETM	_	0	root	_	_
+18	수	수	NOUN	NNB	_	17	aux	_	_
+19	있다.	있 다 .	VERB	VV+EF+SF	_	18	aux	_	_
+
+
+#SENTID:10
+#FILE:practice.txt
+#ORGSENT:그러나 그 기술은 어디까지나 가치중립적인 틀을 유지한 것으로, 분명히 다룬다는 것이 얼마나 어렵고 조심스러운지는 말할 필요가 없으나 순수 학문적인 견해보다 용기가 필요하다.
+1	그러나	그러나	SCONJ	MAJ	_	22	mark	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	기술은	기술 은	NOUN	NNG+JX	_	7	nsubj	_	_
+4	어디까지나	어디 까지 나	PRON	NP+JX+JX	_	7	obl	_	_
+5	가치중립적인	가치중립 적 이 ㄴ	ADJ	NNG+XSN+VCP+ETM	_	6	acl	_	_
+6	틀을	틀 을	NOUN	NNG+JKO	_	7	obj	_	_
+7	유지한	유지 하 ㄴ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것으로,	것 으로 ,	NOUN	NNB+JKB+SP	_	22	obl	_	_
+9	분명히	분명히	ADV	MAG	_	10	advmod	_	_
+10	다룬다는	다루 ㄴ다는	VERB	VV+ETM	_	11	acl	_	_
+11	것이	것 이	NOUN	NNB+JKS	_	14	nsubj	_	_
+12	얼마나	얼마나	ADV	MAG	_	14	advmod	_	_
+13	어렵고	어렵 고	ADJ	VA+EC	_	14	advcl	_	_
+14	조심스러운지는	조심 스럽 ㄴ지 는	ADJ	NNG+XSA+EC+JX	_	17	ccomp	_	_
+15	말할	말 하 ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	필요가	필요 가	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	없으나	없 으나	ADJ	VA+EC	_	22	advcl	_	_
+18	순수	순수	NOUN	NNG	_	19	nmod	_	_
+19	학문적인	학문 적 이 ㄴ	ADJ	NNG+XSN+VCP+ETM	_	20	acl	_	_
+20	견해보다	견해 보다	NOUN	NNG+JKB	_	22	obl	_	_
+21	용기가	용기 가	NOUN	NNG+JKS	_	22	nsubj	_	_
+22	필요하다.	필요 하 다 .	ADJ	NNG+XSA+EF+SF	_	0	root	_	_
+
