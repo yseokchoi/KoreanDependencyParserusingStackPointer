@@ -38,7 +38,7 @@ class CoNLLXWriter(object):
         self.__type_alphabet = type_alphabet
 
     def start(self, file_path):
-        self.__source_file = open(file_path, 'w')
+        self.__source_file = open(file_path, 'w', encoding='utf-8')
 
     def close(self):
         self.__source_file.close()
