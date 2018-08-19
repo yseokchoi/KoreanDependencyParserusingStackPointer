@@ -24,5 +24,5 @@ python StackPointerParser.py  --pos --char --eojul --word_embedding *random* --c
 
 ------
 
-python3 StackPointerParser_test.py --model_path *"model_path"* --model_name *"model_name"* --output_path *"output_path"* --test *"test_file"* 
+python StackPointerParser_test.py --model_path *"model_path"* --model_name *"model_name"* --output_path *"output_path"* --test *"test_file"* 
 
