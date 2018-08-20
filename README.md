@@ -2,11 +2,7 @@
 # Korean Dependency Parser using Stack-Pointer Networks
 Stack-Pointer Network를 이용한 한국어 의존 구문 파서 
 
-이 코드는 Stack-Pointer Network 코드를 
-
-[1]: https://github.com/XuezheMax/NeuroNLP2	"NeuroNLP2"
-
- 코드에서 한국어 의존 구문 파서에 맞게 변경되었음.
+이 코드는 Stack-Pointer Network 코드를 NeruoNLP2(https://github.com/XuezheMax/NeuroNLP2) 코드에서 한국어 의존 구문 파서에 맞게 변경되었음.
 
 ### Requirement
 - python 3.6
