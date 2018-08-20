@@ -38,7 +38,7 @@ class CoNLLXWriter(object):
         self.__type_alphabet = type_alphabet
 
     def start(self, file_path):
-        self.__source_file = open(file_path, 'w', encoding='utf-8')
+        self.__source_file = open(file_path, 'w')
 
     def close(self):
         self.__source_file.close()
@@ -56,5 +56,5 @@ class CoNLLXWriter(object):
                 h = head[i, j]
 
                 self.__source_file.write('%d\t%s\t%s\t%s\t%s\t%s\t%d\t%s\t%s\t%s\n' % (j, sentences[i][j-start][1], sentences[i][j-start][2], sentences[i][j-start][3], \
-                                                                                       sentences[i][j-start][4], sentences[i][j-start][5], h, sentences[i][j-start][7], t, sentences[i][j-start][9]))
+                                                                                       sentences[i][j-start][4], sentences[i][j-start][5], h, t, sentences[i][j-start][8], sentences[i][j-start][9]))
             self.__source_file.write('\n')
